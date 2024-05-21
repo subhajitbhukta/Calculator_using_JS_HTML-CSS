@@ -18,7 +18,7 @@ button.addEventListener('click',(e)=>{
         input.value = string;
     }else if(e.target.innerHTML == '0'){
         // document.body.style.backgroundColor="green";
-        string="Subhajit  ";
+        string="0";
         input.value = string;
     }
     else{
